@@ -7,6 +7,7 @@ import relipa.religram.dto.CommentModel;
 import relipa.religram.dto.PostModel;
 import relipa.religram.entity.Comment;
 import relipa.religram.entity.Post;
+import relipa.religram.model.CommentRequest;
 import relipa.religram.model.PagingResponse;
 import relipa.religram.service.PostService;
 import utils.Entity2DTO;
